@@ -19,3 +19,5 @@ xxx
 ## how to contribute
 pls fork this repository and issue pul req
 ## copyright
+
+all rights reserved
