@@ -1,7 +1,7 @@
 # website
 
 adding line for rebasing example. more changes from my feature branch
-
+updating a line after stash
 
 
 ## introduction
