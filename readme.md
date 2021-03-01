@@ -1,6 +1,7 @@
 # website
 
-adding line for rebasing example
+adding line for rebasing example. more changes from my feature branch
+
 
 
 ## introduction
