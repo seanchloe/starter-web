@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    to jason taylor
 
 # TECHNOLOGY COLOPHON
 
